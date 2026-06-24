@@ -1,2 +1,22 @@
-# Student-Performance-Dashboard
-Interactive Excel dashboard analyzing exam data of 500+ students across 6 subjects. Utilized PivotTables, PivotCharts, slicers, and conditional formatting to highlight top/bottom 10% performers. Summarized key metrics (mean, median, pass rate) to help faculty identify weak subjects and streamline academic reviews.
+# Student Performance Dashboard | Excel
+
+## 📌 Overview
+Built an interactive Excel dashboard to analyze student performance across subjects.
+
+## ⚙️ Tech Stack
+- Excel (PivotTables, PivotCharts, slicers)
+- Conditional Formatting
+- Ranking Logic
+
+## 📊 Features
+- Highlighted top/bottom 10% performers
+- Subject‑wise and gender‑wise analysis
+- KPIs: mean, median, pass rate
+
+## 📝 How to Run
+1. Download `Student_Performance_Dashboard.xlsx`
+2. Open in Microsoft Excel
+3. Use slicers and filters to explore performance KPIs
+
+
+
